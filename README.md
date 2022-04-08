@@ -12,9 +12,9 @@ Tools to reverse engineer, decrypt StreetFighter Duel, the mobile game by [Topjo
 - [X] [Decryption](#decrypt)
 - [ ] [Repacking](#repack)
 
-<span id="unpack">
 
-## Unpacking <span id="Reverse">
+
+## Unpacking <span id="unpack">
 
 - **Tips**:   
   - To get the game's apk, try [app.mi.com](https://app.mi.com/details?id=com.tencent.vega&ref=search)/[gamedog](http://www.gamedog.cn/online/2711920/)/[taptap.io](https://taptap.io), etc.
@@ -29,7 +29,7 @@ Tools to reverse engineer, decrypt StreetFighter Duel, the mobile game by [Topjo
     $ unzip (StreetFighterDuel).apk
     ```
 
-## Reverse Engineering <span id="decrypt">
+## Reverse Engineering <span id="Reverse">
 - **Tips**: 
   - A rooted android driven device/emulator   
 - **Tools**:
@@ -63,15 +63,15 @@ Tools to reverse engineer, decrypt StreetFighter Duel, the mobile game by [Topjo
     - Not yet working because the x86/x86_64 port not implemented.
 - **linux/macOS**:
   - NOT yet implemented, maybe never.
-## Decryption <span id="repack">
+## Decryption <span id="decrypt">
 Chunli:
 
-<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/chunli.gif" width = "792" height = "630" alt="图片名称" align=center /></a>
+<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/chunli.gif" width = "100%" height = "100%" alt="图片名称" align=center /></a>
 
 Cammy:
-<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/cammy.gif" width = "777" height = "726" alt="图片名称" align=center /></a>
+<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/cammy.gif" width = "100%" height = "100%" alt="图片名称" align=center /></a>
 
-## Repacking
+## Repacking <span id="repack">
 - Repacking is not yet implemented, maybe never.
 
 # Note: <span id="note">

@@ -10,14 +10,14 @@
 - [ ] [打包](#repack)
 
 
-<span id="unpack">
 
-## 解包 <span id="Reverse">
+
+## 解包 <span id="unpack">
 
 - **提示**:   
   - 首先下载游戏包apk, 可以试试[app.mi.com](https://app.mi.com/details?id=com.tencent.vega&ref=search)/[gamedog](http://www.gamedog.cn/online/2711920/)/[taptap.io](https://taptap.io), 等等
   - 解压缩可以使用7zip/apktoolbox
-  - 反编译/编译DEX到, 使用apktool等
+  - 反编译/编译DEX, 使用apktool等
   - 反编译jar到java, 使用dex2jar, jd-gui或者cfr.
 - **Windows**:  
   - 使用Explorer资源管理器/7zip/unzip/apktoolbox 解压缩apk
@@ -27,7 +27,7 @@
     $ unzip (StreetFighterDuel).apk
     ```
 
-## Reverse Engineering <span id="decrypt">
+## 逆向 <span id="Reverse">
 - **提示**: 
   - 需要一个ROOT过的设备或者模拟器（目前模拟器暂不支持解密）
 - **工具**:
@@ -61,15 +61,15 @@
     - 暂不支持，尚未实现x86/x86_64平台支持。
 - **linux/macOS**:
   - 暂不支持。
-## 解密 <span id="repack">
+## 解密 <span id="decrypt">
 Chunli:
 
-<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/chunli.gif" width = "792" height = "630" alt="图片名称" align=center /></a>
+<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/chunli.gif" width = "100%" height = "100%" alt="图片名称" align=center /></a>
 
 Cammy:
-<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/cammy.gif" width = "777" height = "726" alt="图片名称" align=center /></a>
+<a href="https://github.com/ipengci/StreetFighterDuel_Tools"><img src="images/cammy.gif" width = "100%" height = "100%" alt="图片名称" align=center /></a>
 
-## 打包
+## 打包 <span id="repack">
 - 暂不支持打包，尚未实现。
 
 ## 注意 <span id="note">
