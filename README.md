@@ -2,14 +2,16 @@
 
 Tools to reverse engineer, decrypt StreetFighterDuel, the mobile game by Topjoy.
 
-[中文说明](README_CN.md)
+[中文版](README_CN.md)
 
+[toc]
 
-- [x] [Unpack](#unpack)
-- [x] [Reverse Engineering](#Reverse)
-- [x] [Decryption](#decrypt)
+- [X] [Unpacking](#unpack)
+- [X] [Reverse Engineering](#Reverse)
+- [X] [Decryption](#decrypt)
 
-## Unpack {#unpack}
-## Reverse Engineering {#Reverse}
-## Decryption {#decrypt}
+## Unpacking `<span id="unpack">`
 
+## Reverse Engineering `<span id="Reverse">`
+
+## Decryption `<span id="decrypt">`
